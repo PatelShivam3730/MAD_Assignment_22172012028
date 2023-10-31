@@ -42,7 +42,7 @@
                 android:padding="8dp"
                 android:maxLines="1"
                 android:textStyle="italic"
-                android:hint="Enter player one name"
+                android:hint="player one"
                 android:textColor="@color/lavender"
                 android:drawableLeft="@drawable/ic_xicon"
                 android:drawablePadding="8dp"/>
@@ -56,7 +56,7 @@
                 android:padding="8dp"
                 android:maxLines="1"
                 android:textStyle="italic"
-                android:hint="Enter player two name"
+                android:hint="player two"
                 android:textColor="@color/lavender"
                 android:drawableLeft="@drawable/ic_oicon"
                 android:drawablePadding="8dp"/>
